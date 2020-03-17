@@ -1,0 +1,10 @@
+Project is for computing any motion problems, using numerical method.
+It is also showing an animation of object in motion with vectors of velocity and force.
+Note: project is not perfect, there are some bad programming habits, for example
+no header files - it is all due to lack of time
+Note 2: to run the program start file MotionSimulation.sh with sh/bash or any other linux shell
+Note 3: to run on windows system you probably gonna need some program for simulating linux shell
+Note 4: animation is showing only 2 dimensions of motion - x and y, doesn't make any difference what z value is
+Note 5: parser in 70% is not my code
+Note 6: time passed in the simulator is time of ending the motion - it is needed if you want only to compute
+final state of object after specified time, not see an animation
