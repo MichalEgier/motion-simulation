@@ -5,4 +5,5 @@ Firstly, it shows on console the state of object (velocity,force,location) after
 Everything is written from a keyboard on start of the program, care about writting in good format and avoid unspecified characters.
 It also shows animation of what happens in 2 dimensions (x and y), but doesn't fix problems with object going out of window, if
 location is too big or too small. Note that bash scripts are used in the project so on windows it will need some external programs to run.
+In order to run, after downloading compile the main.c file with -lm option and after that run the bash script placed in the folder.
  
